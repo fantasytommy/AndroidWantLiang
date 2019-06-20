@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android WantLiang</string>
+    <string name="listview_1">ListView_1</string>
+    <string name="baidu">Baidu</string>
+    <string name="menu">Menu</string>
+    <string name="glide_1">Glide01基本使用</string>
+    <string name="glide_2">Glide02RecyclerView</string>
+    <string name="glide_3">Glide03变换</string>
+    <string name="glide">Glide图片加载库</string>
+</resources>
